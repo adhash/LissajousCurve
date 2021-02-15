@@ -1,11 +1,3 @@
-//
-//  LissajousCurveTests.swift
-//  LissajousCurveTests
-//
-//  Created by wojtek on 22/09/2020.
-//  Copyright © 2020 wojtek. All rights reserved.
-//
-
 import XCTest
 @testable import LissajousCurve
 
